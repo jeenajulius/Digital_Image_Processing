@@ -1,3 +1,4 @@
+
 I = imread('circuit.tif');
  imshow(I)
 A = edge(I,'Prewitt');
